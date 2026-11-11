@@ -1,0 +1,18 @@
+# 构建产物
+/target
+/rust-legacy/target
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 开发期截图 / 临时文件
+/cur.png
+/zoom1.png
+/whitebox*.png
+/tray_zoom.png
+py/shot_*.png
+*.log
+shot_*.png
